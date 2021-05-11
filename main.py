@@ -43,8 +43,7 @@ if __name__ == '__main__':
         exit(-1)
 
     # get steam install drive
-    # steam_drive = input("steam install path? i.e. C:/Program Files (x86)/Steam, E:/Steam ...\n\n")
-    steam_drive = "d:/faststeam"
+    steam_drive = input("steam install path? i.e. C:/Program Files (x86)/Steam, E:/Steam ...\n\n")
     steam_path = os.path.join(steam_drive, "steamapps\common\Sid Meier's Civilization V\Assets\DLC\Expansion2")
 
     # check for civ install folder
