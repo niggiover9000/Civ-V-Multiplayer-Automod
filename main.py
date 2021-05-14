@@ -1,4 +1,5 @@
 import os
+from time import sleep
 from os.path import expanduser, isdir
 from distutils.dir_util import copy_tree
 from shutil import copyfile
@@ -90,3 +91,4 @@ if __name__ == '__main__':
         f.flush()
 
     print("install successful")
+    sleep(5)
