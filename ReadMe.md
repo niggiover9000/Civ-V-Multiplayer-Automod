@@ -7,7 +7,8 @@ This program is used to automatically move the Civilization V singleplayer mods 
 - At the moment, this only works if the Brave New World DLC is installed.
 
 # Installation
-Download the main.exe here [https://github.com/niggiover9000/MuellMeiers5/blob/main/dist/main.exe] and run it.
+- Download the mods from the Steam Workshop you want to use in the multiplayer.
+- Download the main.exe here [https://github.com/niggiover9000/MuellMeiers5/blob/main/dist/main.exe] and run it.
 
 # If something goes wrong
 Browse XXX:\Steam\SteamApps\common\Sid Meier's Civilization V\Assets\DLC\Expansion2
