@@ -8,7 +8,7 @@ This program is used to automatically move the Civilization V singleplayer mods 
 
 # Installation
 - Download the mods from the Steam Workshop you want to use in the multiplayer. Keep in mind that not every mod will work in multiplayer, especially .lua coded mods.
-- Download the main.exe here [https://github.com/niggiover9000/MuellMeiers5/blob/main/dist/main.exe] and run it.
+- Download the main.exe [here](https://github.com/niggiover9000/MuellMeiers5/blob/main/dist/main.exe) and run it.
 
 # If something goes wrong
 Browse XXX:\Steam\SteamApps\common\Sid Meier's Civilization V\Assets\DLC\Expansion2
