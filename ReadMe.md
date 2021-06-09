@@ -1,4 +1,4 @@
-# What does is do
+# What does this program do
 This program is used to automatically move the Civilization V singleplayer mods to the right folder to use them in the multiplayer.
 
 # Requirements
